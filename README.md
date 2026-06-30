@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alisson Witor da Silva Santana</title>
+    
 </head>
 <body>
     <img src="eu.jpeg" alt="Foto de Alisson" width="250" height="250">
