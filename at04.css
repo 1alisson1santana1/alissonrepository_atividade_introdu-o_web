@@ -20,7 +20,7 @@ body {
   color: var(--cor-texto);
 }
 
-/* Componente 1: Nav Fixa */
+
 .nav-fixa {
   position: fixed;
   top: 0;
@@ -47,7 +47,7 @@ body {
   padding-right: var(--espaco-md);
 }
 
-/* Componente 2: Título Sticky */
+
 .titulo-sticky {
   position: sticky;
   top: var(--altura-nav);
@@ -58,7 +58,7 @@ body {
   margin-top: var(--espaco-lg);
 }
 
-/* Componente 3: Selo de Destaque Absolute */
+
 .cartao-destaque {
   position: relative;
   background-color: var(--cor-fundo);
@@ -81,7 +81,7 @@ body {
   box-shadow: 0 2px 4px rgba(0,0,0,0.15);
 }
 
-/* Componente 4: Botão Voltar ao Topo */
+
 .btn-topo {
   position: fixed;
   bottom: var(--espaco-lg);
@@ -101,7 +101,7 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-/* Componente 5: Tooltip */
+
 .tooltip-container {
   position: relative;
   display: inline-block;
